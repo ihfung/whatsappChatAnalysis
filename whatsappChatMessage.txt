@@ -1,0 +1,57 @@
+[2023-05-25, 17:08:22] Novelle Williams: ‎Messages and calls are end-to-end encrypted. No one outside of this chat, not even WhatsApp, can read or listen to them.
+[2023-05-25, 17:08:22] Ivan Leung: Hi my name is Ivan
+‎[2023-05-25, 17:10:35] Ivan Leung: TennisLog.cpp ‎document omitted
+‎[2023-05-25, 17:10:35] Ivan Leung: TennisLog.h ‎document omitted
+‎[2023-05-26, 21:56:32] Ivan Leung: ‎image omitted
+[2023-05-26, 23:05:01] Novelle Williams: 😂 ahh now i'm officially confused
+[2023-05-26, 23:09:59] Ivan Leung: https://stackoverflow.com/questions/3901
+[2023-05-26, 23:10:23] Ivan Leung: This will help when looking at the example in the 5 steps
+[2023-06-02, 22:09:43] Ivan Leung: i got full marks for lab 1 and 2 on DSA
+[2023-06-02, 22:10:14] Novelle Williams: Your teacher is nice....I might come to your class 😂
+[2023-06-02, 22:10:57] Ivan Leung: bruh I dont think there is a correct answer
+[2023-06-02, 22:11:13] Ivan Leung: like everyone is different and i think they are just looking at the process
+[2023-06-02, 22:15:29] Novelle Williams: True... i'm trying to knock out ws2.... then finish dsa lab 3
+[2023-06-02, 22:16:36] Ivan Leung: I am starting to understand the concept in ws3
+[2023-06-02, 22:17:34] Novelle Williams: Concepts I kinda understand.... I just get trapped trying to understand errors
+[2023-06-02, 22:20:13] Ivan Leung: 🤣🤣🤣
+[2023-06-02, 22:20:22] Ivan Leung: for which one?
+[2023-06-02, 22:25:12] Novelle Williams: workshop2 part 2..... I don't know if my Constructor is off or if it something else
+[2023-06-02, 22:26:28] Ivan Leung: One of the rule of 5 or the other one
+[2023-06-02, 22:26:39] Ivan Leung: ‎You deleted this message.
+[2023-06-02, 22:27:04] Ivan Leung: ?*
+[2023-06-02, 22:32:01] Novelle Williams: Yeah
+[2023-06-02, 22:32:50] Novelle Williams: I don't know if it's *TennisLog(const char filename);* function thats giving me the problem
+[2023-06-02, 22:33:08] Novelle Williams: Or if it's the [] operator function
+‎[2023-06-02, 22:33:37] Ivan Leung: TennisLog.cpp ‎document omitted
+[2023-06-02, 22:33:52] Ivan Leung: i dont know if this will help
+[2023-06-02, 22:35:43] Novelle Williams: I'll look at it and see
+‎[2023-06-15, 15:53:33] Ivan Leung: a1_partb.py ‎document omitted
+‎[2023-06-15, 15:53:33] Ivan Leung: a1_partc.py ‎document omitted
+‎[2023-06-15, 16:03:20] Ivan Leung: a1-part1-diagrams.pdf • ‎8 pages ‎document omitted
+‎[2023-06-22, 15:24:35] Ivan Leung: DSA.docx ‎document omitted
+‎[2023-06-22, 15:54:27] Novelle Williams: BigO_notations.pdf • ‎4 pages ‎document omitted
+[2023-07-13, 16:25:20] Ivan Leung: Where are you?
+[2023-07-13, 16:25:39] Novelle Williams: I'm going to walk over shortly
+[2023-07-13, 16:26:50] Ivan Leung: Okay 👌
+[2023-07-13, 18:06:31] Novelle Williams: By the way Ivan your profile pic is kinda creepy bro
+[2023-07-13, 18:06:44] Ivan Leung: 🤣🤣🤣
+[2023-07-13, 18:13:33] Ivan Leung: Fine I changed it
+[2023-07-13, 18:13:35] Ivan Leung: ROFL
+[2023-07-13, 20:40:49] Novelle Williams: Ahhh I like this much better bro
+[2023-07-13, 21:15:14] Ivan Leung: I still have the PlayStation 1
+[2023-08-17, 15:51:25] Ivan Leung: Where are you?
+[2023-08-25, 16:21:22] Ivan Leung: Did you pass DSA?
+[2023-08-25, 19:42:08] Novelle Williams: I don't know. I got 35
+[2023-08-25, 19:42:27] Novelle Williams: Im praying bro
+[2023-08-25, 19:43:44] Ivan Leung: The marks are out on student home thing though
+[2023-10-23, 22:17:20] Ivan Leung: Happy birthday 🥳
+[2023-10-24, 17:18:54] Novelle Williams: Thank you my guy
+[2023-10-24, 17:19:01] Novelle Williams: How have you been?
+[2023-10-24, 18:25:20] Ivan Leung: Good just been travelling 
+How about you ?
+[2024-01-01, 14:38:16] Ivan Leung: Happy New Year!
+[2024-01-01, 16:09:52] Novelle Williams: Fam. Happy new year man.
+[2024-01-01, 16:09:55] Novelle Williams: How you been?
+[2024-01-01, 16:34:58] Ivan Leung: Bruh it’s alright
+I have been looking into doing bootcamps ‎<This message was edited>
+[2024-01-01, 16:35:02] Ivan Leung: How have you been? ‎<This message was edited>
